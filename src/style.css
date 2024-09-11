@@ -172,6 +172,7 @@
   flex: 0 0 auto;
   background-color: #0f6cbd;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .MVP-version .container {
